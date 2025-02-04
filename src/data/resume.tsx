@@ -111,9 +111,6 @@ export const DATA = {
         "Css",
         "MySQL",
       ],
-      links: [
-
-      ],
       image: "/gym.png",
       video:
         "",
