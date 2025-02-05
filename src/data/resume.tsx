@@ -152,7 +152,7 @@ export const DATA = {
     },
     {
       title: "Sistema de Gestion de Respaldos Automatizado",
-      href: "https://automatic.chat",
+      href: "",
       dates: "Julio 2024 - Diciembre 2024",
       active: true,
       description:
