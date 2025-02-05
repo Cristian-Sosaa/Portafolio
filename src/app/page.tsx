@@ -98,7 +98,7 @@ export default function Page() {
                   Mira mis ultimos trabajos
                 </h2>
                 <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                He trabajado en una variedad de proyectos, desde el desarrollo de sitios web hasta la administración y seguridad de servidores. Estos son algunos de mis favoritos.
+                He trabajado en una variedad de proyectos, desde el desarrollo de aplicaciones web hasta la administración y seguridad de servidores. Estos son algunos de mis favoritos.
                 </p>
               </div>
             </div>
