@@ -8,9 +8,9 @@ export const DATA = {
   location: "San Francisco, CA",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
   description:
-    "Apasionado por la ciberseguridad y el desarrollo backend.",
+    "Apasionado por la ciberseguridad y las redes.",
   summary:
-    "Soy estudiante de Ciencias de la Computación con experiencia en desarrollo web, administración de servidores Linux y ciberseguridad. Me especializo en seguridad informática y optimización de sistemas. Siempre buscando aprender, mejorar y compartir conocimientos.",
+    "Soy estudiante de Ciencias de la Computación con experiencia en desarrollo web y ciberseguridad. Me especializo en ciberseguridad y redes, protegiendo infraestructuras y redes con soluciones avanzadas para garantizar su seguridad. Siempre buscando aprender, mejorar y compartir conocimientos",
   avatarUrl: "/me.png",
   skills: [
     "PHP",
@@ -63,18 +63,33 @@ export const DATA = {
       end: "2026",
     },
     {
+      school: "Instituto Nacional de Capacitación y Formación",
+      href: "https://www.incaf.gob.sv/",
+      degree: "Gestión de la Ciberseguridad Avanzada",
+      logoUrl: "/incaf.jpg",
+      start: "2025",
+      end: "2025",
+    },
+    {
+      school: "Hacker Mentor",
+      href: "https://www.hacker-mentor.com/",
+      degree: "Perimetraje e Informática Forense",
+      logoUrl: "/hackermentor.jpg",
+      start: "2025",
+      end: "2025",
+    },
+    {
       school: "Hacker Mentor",
       href: "https://www.hacker-mentor.com/",
       degree: "Auditor Interno ISO 27001",
-      logoUrl: "/iso_27001.png",
+      logoUrl: "/hackermentor.jpg",
       start: "2024",
       end: "2025",
-
     },
     {
       school: "Cisco Networking Academy",
       href: "https://www.netacad.com/courses/ethical-hacker?courseLang=en-US",
-      degree: "Hacker Etico",
+      degree: "Ethical Hacker",
       logoUrl: "/cisco_offensive.png",
       start: "2024",
       end: "2025",
@@ -82,7 +97,7 @@ export const DATA = {
     {
       school: "Cisco Networking Academy",
       href: "https://www.netacad.com/es/career-paths/cybersecurity?courseLang=es-XL",
-      degree: "Analista Junior en Ciberseguridad",
+      degree: "Junior Cybersecurity Analyst",
       logoUrl: "/jr.png",
       start: "2024",
       end: "2024",
@@ -90,7 +105,7 @@ export const DATA = {
     {
       school: "Cisco Networking Academy",
       href: "https://www.netacad.com/",
-      degree: "CCNA V7",
+      degree: "Cisco Certified Network Associate V7",
       logoUrl: "/cisco.png",
       start: "2023",
       end: "2023",
