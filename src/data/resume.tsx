@@ -61,7 +61,7 @@ export const DATA = {
       start: "Marzo 2025",
       end: "Actualidad",
       description:
-        "Ets Consulting participé en la implementación y soporte de firewalls Palo Alto. Colaboré en la configuración de interfaces, zonas, políticas de seguridad, NAT y VPNs, tanto de forma remota como presencial en sitios de clientes. También brindé soporte técnico post-implementación, ayudando con ajustes de configuración y resolución de incidencias junto al equipo de redes. ",
+        "En Ets Consulting, participo en la implementación y soporte de firewalls Palo Alto. Colaboro en la configuración de interfaces, zonas, políticas de seguridad, NAT y VPNs, tanto de forma remota como presencial en sitios de clientes. Además, brindo soporte técnico post-implementación, ayudando con ajustes de configuración y resolución de incidencias junto al equipo de redes.",
     },
 
   ],
