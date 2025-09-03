@@ -20,10 +20,9 @@ export const DATA = {
     "Bootstrap",
     "SQL",
     "PostgresSQL",
-    "Seguridad informática para empresas",
-    "Recuperación y prevención de pérdida de datos",
-    "Ethical Hacking y pruebas de penetración",
-    "Linux (Administración y Seguridad)",
+    "Monitoreo y gestión de redes",
+    "Configuración de firewalls",
+    "Documentación y soporte técnico",
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Inicio" },
@@ -52,14 +51,26 @@ export const DATA = {
 
   work: [
     {
+      company: "Movistar El Salvador",
+      href: "https://ets.consulting/",
+      badges: [],
+      location: "Remoto",
+      title: "Analista de Centro de Operaciones de Red (NOC) – Nivel 1",
+      logoUrl: "/Movistar.jpg",
+      start: "Junio 2025",
+      end: "Actualidad",
+      description: "En Movistar El Salvador, participo como Analista NOC Nivel 1, monitoreo la infraestructura de red, detecto y resuelvo incidentes, configuro y mantengo dispositivos de red, y colaboro con el equipo para garantizar disponibilidad, rendimiento y seguridad de los sistemas, tanto de forma remota."
+      ,
+    },
+    {
       company: "Ets Consulting",
       href: "https://ets.consulting/",
       badges: [],
-      location: "Remote",
+      location: "Remoto",
       title: "Implementación y Soporte Técnico",
       logoUrl: "/ets.png",
-      start: "Marzo 2025",
-      end: "Actualidad",
+      start: "Febrero 2025",
+      end: "Mayo 2025",
       description:
         "En Ets Consulting, participo en la implementación y soporte de firewalls Palo Alto. Colaboro en la configuración de interfaces, zonas, políticas de seguridad, NAT y VPNs, tanto de forma remota como presencial en sitios de clientes. Además, brindo soporte técnico post-implementación, ayudando con ajustes de configuración y resolución de incidencias junto al equipo de redes.",
     },
@@ -75,18 +86,18 @@ export const DATA = {
       end: "2026",
     },
     {
-      school: "Instituto Nacional de Capacitación y Formación",
+      school: "Huawei Global Training Center",
       href: "https://www.incaf.gob.sv/",
-      degree: "Gestión de la Ciberseguridad Avanzada",
-      logoUrl: "/incaf.jpg",
+      degree: "SD-WAN Solution Planning and Deployment Training",
+      logoUrl: "/Huawei.png",
       start: "2025",
       end: "2025",
     },
     {
-      school: "Hacker Mentor",
-      href: "https://www.hacker-mentor.com/",
-      degree: "Perimetraje e Informática Forense",
-      logoUrl: "/hackermentor.jpg",
+      school: "Instituto Nacional de Capacitación y Formación",
+      href: "https://www.incaf.gob.sv/",
+      degree: "Gestión de la Ciberseguridad Avanzada",
+      logoUrl: "/incaf.jpg",
       start: "2025",
       end: "2025",
     },
@@ -100,103 +111,36 @@ export const DATA = {
     },
     {
       school: "Cisco Networking Academy",
-      href: "https://www.netacad.com/courses/ethical-hacker?courseLang=en-US",
-      degree: "Ethical Hacker",
-      logoUrl: "/cisco_offensive.png",
-      start: "2024",
-      end: "2025",
-    },
-    {
-      school: "Cisco Networking Academy",
       href: "https://www.netacad.com/es/career-paths/cybersecurity?courseLang=es-XL",
       degree: "Junior Cybersecurity Analyst",
       logoUrl: "/jr.png",
       start: "2024",
       end: "2024",
     },
-    {
-      school: "Cisco Networking Academy",
-      href: "https://www.netacad.com/",
-      degree: "Cisco Certified Network Associate V7",
-      logoUrl: "/cisco.png",
-      start: "2023",
-      end: "2023",
-    },
   ],
   projects: [
-    {
-      title: "Alpha & Omega - GYM",
-      href: "",
-      dates: "Enero 2023 - Junio 2023",
-      active: true,
-      description:
-        "Aplicacion web para gestionar miembros, membresías, inventario y roles de usuario, con capacidad de generar tickets de transacciones.",
-      technologies: [
-        "Php",
-        "Javascript",
-        "Bootstrap",
-        "Css",
-        "MySQL",
-      ],
-      image: "/gym.png",
-      video:
-        "",
-    },
-    {
-      title: "Pelichivo",
-      href: "",
-      dates: "Julio 2023 - Diciembre 2023",
-      active: true,
-      description:
-        "Aplicacion web que consume una API para mostrar carteleras de películas en tiempo real. Incluye un sistema de suscripciones para notificaciones y acceso a contenido exclusivo.",
-      technologies: [
-        "Laravel",
-        "Javascript",
-        "Tailwind",
-        "Css",
-        "MySQL",
-      ],
-      image: "/pelichivo.png",
-      video: "",
-    },
-    {
-      title: "Infraestructura de Monitoreo",
-      href: "",
-      dates: "Enero 2024 - Junio 2024",
-      active: true,
-      description:
-        "Sistema de monitoreo diseñado para la recoleccion, almacenamiento, visualización y alertas de metricas en tiempo real, optimizando la supervision de infraestructura y aplicaciones.",
-      technologies: [
-        "Grafana",
-        "Prometheus",
-        "Node Exporter",
-        "Alertmanager",
-        "Loki",
-        "Linux",
-      ],
-      image: "/grafana.jpg",
-      video: "",
-    },
-    {
-      title: "Sistema de Gestion de Respaldos Automatizado",
-      href: "",
-      dates: "Julio 2024 - Diciembre 2024",
-      active: true,
-      description:
-        "Sistema de backups automatizados diseñado para la gestión, monitoreo y recuperación de datos de manera eficiente, utilizando como la interfaz para la administración centralizada de tareas de respaldo y restauracion en tiempo real.",
-      technologies: [
-        "Bacula",
-        "Bacula Web",
-        "MySQL",
-        "Cron",
-        "Linux",
-      ],
-      image: "/bacula.png",
-      video:
-        "",
-    },
+   
   ],
   hackathons: [
-    
+    {
+      title: "SD-WAN Solution Planning and Deployment Training",
+      dates: "22 de agosto de 2025",
+      location: "San Salvador, El Salvador",
+      description: "Participé en la planificación e implementación de soluciones SD-WAN, aprendiendo a optimizar el enrutamiento de tráfico, garantizar alta disponibilidad y mejorar la seguridad de la red corporativa.",
+
+      image:
+        "/Huawei.png",
+      mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2019/mlh-trust-badge-2019-white.svg",
+      links: [],
+    },
+    {
+      title: "Innovation Camp 2025",
+      dates: "28 de mayo de 2025",
+      location: "San Salvador, El Salvador",
+      description: "Desarrollé un Security Operations Center (SOC) para monitorizar y proteger la infraestructura de red.",
+      
+      image: "/inovention_camp.jpg",
+      links: [],
+    },
   ],
 } as const;
