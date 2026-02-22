@@ -10,7 +10,7 @@ export const DATA = {
   description:
     "Apasionado por la ciberseguridad y las redes.",
   summary:
-    "Soy estudiante de Ciencias de la Computación con experiencia en desarrollo web y ciberseguridad. Me especializo en ciberseguridad y redes, protegiendo infraestructuras y redes con soluciones avanzadas para garantizar su seguridad. Siempre buscando aprender, mejorar y compartir conocimientos",
+    "Soy estudiante de Ciencias de la Computación con experiencia en soporte de redes y telecomunicaciones. Trabajo en el monitoreo y operación de servicios de conectividad, participando en el diagnóstico y seguimiento de incidencias en redes empresariales. Siempre busco aprender, mejorar y seguir creciendo en el área de redes y ciberseguridad",
   avatarUrl: "/me.png",
   skills: [
     "PHP",
@@ -55,11 +55,11 @@ export const DATA = {
       href: "https://ets.consulting/",
       badges: [],
       location: "Remoto",
-      title: "Analista de Centro de Operaciones de Red (NOC) – Nivel 1",
+      title: "Especialista en Soporte de Redes",
       logoUrl: "/Movistar.jpg",
       start: "Junio 2025",
       end: "Actualidad",
-      description: "En Movistar El Salvador, participo como Analista NOC Nivel 1, monitoreo la infraestructura de red, detecto y resuelvo incidentes, configuro y mantengo dispositivos de red, y colaboro con el equipo para garantizar disponibilidad, rendimiento y seguridad de los sistemas, tanto de forma remota."
+      description: "Participación en la operación y monitoreo de servicios de conectividad empresarial en entornos 24/7, realizando monitoreo de enlaces MPLS, DIA y servicios de conectividad corporativa. Ejecución de validaciones de conectividad mediante pruebas de red como ping y traceroute, revisión de estados de interfaces, tablas ARP, consumo de CPU y análisis de logs de equipos. Atención y seguimiento de incidencias de red reportadas por clientes, coordinación con áreas técnicas durante el proceso de diagnóstico y resolución, y soporte en redes LAN, WAN y servicios de conectividad provistos por terceros."
       ,
     },
     {
