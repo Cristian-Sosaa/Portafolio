@@ -10,7 +10,7 @@ export const DATA = {
   description:
     "Apasionado por la ciberseguridad y las redes.",
   summary:
-    "Soy estudiante de Ciencias de la Computación con experiencia en soporte de redes y telecomunicaciones. Trabajo en el monitoreo y operación de servicios de conectividad, participando en el diagnóstico y seguimiento de incidencias en redes empresariales. Siempre busco aprender, mejorar y seguir creciendo en el área de redes y ciberseguridad",
+    "Soy estudiante de Ciencias de la Computación con experiencia en soporte de redes y telecomunicaciones. Trabajo en el monitoreo y operación de servicios de conectividad, participando en el diagnóstico y seguimiento de incidencias en redes empresariales. Siempre busco aprender, mejorar y seguir creciendo en el área de redes y ciberseguridad.",
   avatarUrl: "/me.png",
   skills: [
     "LAN / WAN",
